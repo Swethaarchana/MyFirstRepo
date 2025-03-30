@@ -1,4 +1,8 @@
-
+# Enter and update
+Project Description: Sports Warehouse
+How to install/run: Download locally, run on virtual machine. Requires latest python, Requires 32GB RAM.
+Author: AS
+git checkout -b feature/shopping-cart
 git checkout -b feature/shopping-cart
 git add .
 git commit -m "[SWOS-102] Implemented cart functionality"
